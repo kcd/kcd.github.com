@@ -3,7 +3,7 @@ markdown: rdiscount
 rdiscount:
   extensions: [smart]
 pygments: true
-url: kcd.github.com
+url: http://kcd.github.com
 exclude:
         - Rakefile
         - Makefile

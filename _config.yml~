@@ -3,7 +3,7 @@ markdown: rdiscount
 rdiscount:
   extensions: [smart]
 pygments: true
-url: bgmtpyldz.github.com
+url: kcd.github.com
 exclude:
         - Rakefile
         - Makefile
@@ -12,28 +12,28 @@ exclude:
         - presentation.png
         - media
 
-account: bgmtpyldz
+account: kcd
 archive: Son Girdiler
 assets: /assets
-author: Begüm Topyıldız
-disqus: bgmtpyldz
-email: beg@bil.omu.edu.tr
-facebook: https://facebook.com/begumtopyildiz
+author: Kamile Canan Demirel
+disqus: kcd
+email: kcd@bil.omu.edu.tr
+facebook: https://facebook.com/cnndmrl
 feed: ~
 flickr: ~
 google: ~
 googleanalyticsid: ~
 googleplus: ~
 gpg: ~
-homeurl: http://bgmtpyldz.github.com
+homeurl: http://kcd.github.com
 logo: /assets/19/19-normal-128x128.png
 organization: 19
 picasa: ~
 related: Diğer Girdiler
-repository: bgmtpyldz.github.com
+repository: kcd.github.com
 ribbon: GitHub'dayım
-title: Begüm Topyıldız
-twitter: http://twitter.com/bgmtpyldz
+title: kcd
+twitter: ~
 
 navigator:
         0: Teknik Olmayan Yazılar
