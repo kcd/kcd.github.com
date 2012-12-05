@@ -1,3 +1,8 @@
+---
+layout: post
+title: MVC Mimarisi
+---
+
 ![MVC Mimarisi](https://www.lucidchart.com/publicSegments/view/50bf3407-3b10-4b41-9445-6d200a7a0a70/image.png)
 
 Bir Rails uygulamasıyla etkileşimdeyken, **Browser**(tarayıcı) bir istek
